@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+input {
+    color: black;
+}
+
+select {
+    color: black;
+}
+
+select > option {
+    color: black;
+}
+
+button {
+    color: black;
+}
+
+.swal2-html-container {
+    color: black;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+#dataForm {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#dataForm > span {
+    margin: 10px;
+}
+
+#mnFrm {
+    position: absolute;
+    right: 2%;
+    top: 2%;
+}
+
+.wiroDrag {
+    background: white;
+    color: black;
+    list-style-type: decimal;
+    width: 100%;
+    position: absolute;
+    z-index: 5 !important;
+    padding-left: 10px;
+    transition: all 300ms;
+}
+
+.wiroDrag:hover {
+    background-color: rgb(243, 243, 243);
+}
