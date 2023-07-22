@@ -22,5 +22,4 @@ Currently as I know there is no bug
 You can check settings.php for configurations
 
 ## Communicate
-Mail : wirodevelopments@gmail.com </br>
-Discord : [Discord Server](https://discord.gg/s5fWTrW)
+email : berkcicekler7@gmail.com </br>
